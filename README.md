@@ -50,6 +50,7 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 **Backend & Frameworks**
 
@@ -85,6 +86,8 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **IDEs**
 
@@ -92,17 +95,11 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=aditya-singh2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=aditya-singh2005&theme=dark&hide_border=false)
-
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=aditya-singh2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-singh2005&theme=dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-singh2005&theme=dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-singh2005&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-singh2005&theme=radical" alt="Most Commit Language" />
 </p>
 
 ---
@@ -115,18 +112,8 @@
 
 ---
 
-### ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=aditya-singh2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 <p align="center">
   <a href="https://github.com/aditya-singh2005">
-    <img src="https://komarev.com/ghpvc/?username=aditya-singh2005&icon=0&color=13" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=aditya-singh2005&icon=0" alt="Profile Views"/>
   </a>
 </p>
