@@ -2,7 +2,7 @@
 <tr>
 <td valign="middle" width="55%">
 
-<h1>Hey, I'm Aditya Singh 👋</h1>
+<h1>Hey, I'm Aditya Singh 🐦‍🔥</h1>
 
 <p>
   <a href="https://www.linkedin.com/in/aditya-singh-7658a1291/">
@@ -45,7 +45,7 @@ Computer Science undergrad at **Delhi Technological University** (Batch 2023–2
 
 - 🔭 Currently building **scalable full-stack apps** and **LLM-powered systems**
 - 🤖 Working with **RAG Pipelines · AI Agents · LangChain · PyTorch**
-- ⚔️ Competitive programmer — **750+ LeetCode** problems, **Leetcode peak ~1744**
+- ⚔️ Competitive programmer — **750+ LeetCode** problems, **Leetcode rating ~1753**
 - 🏆 1st place **Microsoft Blog-a-thon** · **Google Arcade 2024** graduate
 - 🤝 Open to collaborating on **Full-Stack · AI Applications · Open Source**
 - 💬 Ask me about: *DSA, Backend Systems, AI Agents, RAG, LLMs*
