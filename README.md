@@ -123,7 +123,7 @@ Computer Science undergrad at **Delhi Technological University** (Batch 2023–2
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=aditya-singh2005&theme=dark&no-frame=false&row=1" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=aditya-singh2005&theme=radical&no-frame=false&row=1" alt="Trophies" />
 </p>
 
 ---
