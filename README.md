@@ -1,36 +1,54 @@
-<p align="center">
-  <img src="./assets/banner.gif" width="100%">
+<table align="center">
+<tr>
+<td valign="middle" width="55%">
+
+<h1>Hey, I'm Aditya Singh 👋</h1>
+
+<p>
+  <a href="https://www.linkedin.com/in/aditya-singh-7658a1291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:singhaditya00005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/aditya-singh2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Aditya_Singh2685/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/easy_fair_88">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  </a>
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=FC8A60&center=false&vCenter=true&width=420&lines=Full-Stack+Engineer+%7C+AI+Builder;Exploring+RAG+Pipelines+%26+AI+Agents;750%2B+LeetCode+Problems+Solved;Always+Learning.+Always+Shipping." alt="Typing SVG" />
 
-<div align="center">
+</td>
+<td valign="middle" align="center" width="45%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=fc8a60&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Aditya;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="./assets/banner2.gif" width="420" alt="Banner GIF"/>
 
-</div>
-
-### 🚀 About Me
-
-- 🔭 Currently building scalable full-stack applications and exploring the intersection of software engineering and artificial intelligence.
-- 🤖 Actively working with AI technologies including Machine Learning, Deep Learning, RAG pipelines, AI Agents, LangChain, and modern LLM-powered applications.
-- 🌱 Continuously learning emerging technologies, cloud-native architectures, and practical AI systems to transform ideas into impactful products.
-- 🤝 Open to collaborating on innovative projects involving Full-Stack Development, AI Applications, Developer Tools, and Open Source.
-- 💡 Passionate about solving complex problems through clean engineering, data-driven thinking, and intelligent automation.
-- 💬 Ask me about: Full-Stack Development, Data Structures & Algorithms, Competitive Programming, Backend Systems, AI Agents, RAG, and LLM Applications.
-- ⚡ I enjoy turning cutting-edge technology into practical products and believe the best way to learn is by building.
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Connect with Me
+### 🧑‍💻 About Me
 
-<p>
-  <a href="https://www.linkedin.com/in/aditya-singh-7658a1291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:singhaditya00005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+Computer Science undergrad at **Delhi Technological University** (Batch 2023–27), building at the intersection of full-stack engineering and AI.
+
+- 🔭 Currently building **scalable full-stack apps** and **LLM-powered systems**
+- 🤖 Working with **RAG Pipelines · AI Agents · LangChain · PyTorch**
+- ⚔️ Competitive programmer — **750+ LeetCode** problems, **Codeforces peak ~1744**
+- 🏆 1st place **Microsoft Blog-a-thon** · **Google Arcade 2024** graduate
+- 🤝 Open to collaborating on **Full-Stack · AI Applications · Open Source**
+- 💬 Ask me about: *DSA, Backend Systems, AI Agents, RAG, LLMs*
 
 ---
 
@@ -94,8 +112,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-singh2005&theme=radical" alt="Repos per Language" />
